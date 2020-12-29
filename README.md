@@ -1,5 +1,5 @@
-#Todo App
-![Alt text](/home/a/Pictures/todo.png?raw=true "Screenshot")
+## Todo App
+![Alt text](https://github.com/arpit0891/Todo-reactjs-app-and-notes/blob/main/todo.png?raw=true "Screenshot")
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
