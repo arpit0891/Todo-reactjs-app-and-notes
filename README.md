@@ -1,12 +1,16 @@
 ## Todo App
 ![Alt text](https://github.com/arpit0891/Todo-reactjs-app-and-notes/blob/main/todo.png?raw=true "Screenshot")
 
-###Functionality 
+### Functionality 
 
-*Create task
-*Strike completed task
-*Dynamic
-*Checkbox autoupdates with data
+* Create task
+
+* Strike completed task
+
+* Dynamic
+
+* Checkbox autoupdates with data
+
 
 # Getting Started with Create React App
 
