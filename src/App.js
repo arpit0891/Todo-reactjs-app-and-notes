@@ -1,5 +1,5 @@
 import React from "react"
-import Footer from './Footer'
+//import Footer from './Footer'
 import TodoItem from "./TodoItem"
 import TodoData from "./TodoData"
 // //import ReactDOM from "react-dom"
